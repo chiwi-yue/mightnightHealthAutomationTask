@@ -22,7 +22,7 @@ ticker,price,p-e ratio,recommended,
 Q: HOW to use it?
 A: Easy as following. 
   1) clone the repo
-  2) Just input AXS company full name, e.g.: BHP GROUP LIMITED, hit ENTER.
+  2) run python3 retrieveASX.py, input AXS company full name, e.g.: BHP GROUP LIMITED, hit ENTER.
   3) The 'stock.csv' file will be created at the same folder ./demo/
 
 KNOWN ISSUE:
