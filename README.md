@@ -34,9 +34,6 @@ KNOWN ISSUE:
  - It might have some flake testing due AXS server response
  - If error just re-run the CLI
  
- 
-% python3 retrieveASX.py
-Companyname: > 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
 CLI output log example as below
