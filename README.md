@@ -1,16 +1,21 @@
 # mightnightHealthAutomationTask
 
 The following task should be taken as an opportunity to highlight your skills using Python and Selenium. 
+
 In your solution, you are free to use whichever webdriver (ChromeDriver, GeckoDriver, etc.) that you wish.
 
 # TASK
 Create a CLI which uses Selenium to retrieve information from the ASX.
+
 Your CLI should take an argument, which will be a company name Not a ticker E.g. Telstra, not TLS.
+
 Go to the official ASX website and navigate to the company page and retrieve Last Price / Today's Change
-You should then retrieve the company ticker and the latest price of all the related companies, which can be found under
-the Peer analysis section down the page.
+
+You should then retrieve the company ticker and the latest price of all the related companies, which can be found under the Peer analysis section down the page.
+
 In addition to the above, compare the P/E ratio of the original company, as well as the related companies and
 recommend a company to purchase based on the lowest P/E ratio (or your favourite stock metric).
+
 Your program should then write these findings to a .csv file, with the following fields for each company:
 
 ticker,price,p-e ratio,recommended,
