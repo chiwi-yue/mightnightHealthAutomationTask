@@ -13,6 +13,8 @@ In addition to the above, compare the P/E ratio of the original company, as well
 recommend a company to purchase based on the lowest P/E ratio (or your favourite stock metric).
 Your program should then write these findings to a .csv file, with the following fields for each company:
 
+ticker,price,p-e ratio,recommended,
+
 -------
 
 # MY SOLUTION
