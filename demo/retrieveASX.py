@@ -32,7 +32,7 @@ def main(
         .send_keys(companyName).send_keys(Keys.RETURN).perform()
 
     print("############################################")
-    print("Stage 1: Retrieve the 3th company stock info")
+    print("Stage 1: Retrieve the 1st company stock info")
     print("The current page url is " + driver.current_url)
     print("Title is :" + driver.title)
 

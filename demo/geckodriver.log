@@ -3586,3 +3586,157 @@ JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.
 1667967043760	Marionette	INFO	Stopped listening on port 52925
 1668125970320	Marionette	INFO	Stopped listening on port 49505
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668403743972	geckodriver	INFO	Listening on 127.0.0.1:65195
+1668403744327	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65196" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/3k/9ybm1r152vd8xlbk1kr5v6tw0000gn/T/rust_mozprofileVW76eJ"
+1668403746155	Marionette	INFO	Marionette enabled
+1668403746232	Marionette	INFO	Listening on port 65204
+Read port: 65204
+WebDriver BiDi listening on ws://127.0.0.1:65196
+1668403747258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/3k/9ybm1r152vd8xlbk1kr5v6tw0000gn/T/rust_mozprofileVW76eJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65196/devtools/browser/4ddaba62-0e5c-4031-9d4a-e2c9440a2cdf
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1668403753150	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+1668403988283	geckodriver	INFO	Listening on 127.0.0.1:65341
+1668403988802	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65342" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/3k/9ybm1r152vd8xlbk1kr5v6tw0000gn/T/rust_mozprofileX40icU"
+1668403989407	Marionette	INFO	Marionette enabled
+1668403989474	Marionette	INFO	Listening on port 65349
+Read port: 65349
+WebDriver BiDi listening on ws://127.0.0.1:65342
+1668403990394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/3k/9ybm1r152vd8xlbk1kr5v6tw0000gn/T/rust_mozprofileX40icU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65342/devtools/browser/89b5bc5d-0510-4733-ab85-3150f03658c9
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+1668404689716	geckodriver	INFO	Listening on 127.0.0.1:65513
+1668404690245	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65514" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/3k/9ybm1r152vd8xlbk1kr5v6tw0000gn/T/rust_mozprofileS1oEwG"
+1668404691642	Marionette	INFO	Marionette enabled
+1668404691756	Marionette	INFO	Listening on port 65521
+Read port: 65521
+WebDriver BiDi listening on ws://127.0.0.1:65514
+1668404692396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/3k/9ybm1r152vd8xlbk1kr5v6tw0000gn/T/rust_mozprofileS1oEwG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65514/devtools/browser/1f423f93-299c-470d-8a28-f3b49b00183d
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+1668404778552	Marionette	INFO	Stopped listening on port 65521
+1668404985641	Marionette	INFO	Stopped listening on port 65349
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668404988467	Marionette	INFO	Stopped listening on port 65204
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668405083363	geckodriver	INFO	Listening on 127.0.0.1:49283
+1668405083874	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49284" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/3k/9ybm1r152vd8xlbk1kr5v6tw0000gn/T/rust_mozprofileD2B3rw"
+1668405086041	Marionette	INFO	Marionette enabled
+1668405086125	Marionette	INFO	Listening on port 49289
+Read port: 49289
+WebDriver BiDi listening on ws://127.0.0.1:49284
+1668405086650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/3k/9ybm1r152vd8xlbk1kr5v6tw0000gn/T/rust_mozprofileD2B3rw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49284/devtools/browser/ef936809-6b82-4d48-ae7a-fdfae6bacbcf
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+1668405192790	Marionette	INFO	Stopped listening on port 49289
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668405258738	geckodriver	INFO	Listening on 127.0.0.1:49418
+1668405259260	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49419" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/3k/9ybm1r152vd8xlbk1kr5v6tw0000gn/T/rust_mozprofileWIb4Ba"
+1668405261175	Marionette	INFO	Marionette enabled
+1668405261280	Marionette	INFO	Listening on port 49424
+Read port: 49424
+WebDriver BiDi listening on ws://127.0.0.1:49419
+1668405261768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/3k/9ybm1r152vd8xlbk1kr5v6tw0000gn/T/rust_mozprofileWIb4Ba/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49419/devtools/browser/7e6cd637-e70b-429f-8c41-6c954ae5cc5d
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+1668405390385	geckodriver	INFO	Listening on 127.0.0.1:49533
+1668405390912	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49534" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/3k/9ybm1r152vd8xlbk1kr5v6tw0000gn/T/rust_mozprofilelHG9ln"
+1668405391982	Marionette	INFO	Marionette enabled
+1668405392049	Marionette	INFO	Listening on port 49539
+Read port: 49539
+WebDriver BiDi listening on ws://127.0.0.1:49534
+1668405392728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/3k/9ybm1r152vd8xlbk1kr5v6tw0000gn/T/rust_mozprofilelHG9ln/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49534/devtools/browser/eefa9370-7694-41b1-a07d-23f7aad8d444
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+1668405478393	geckodriver	INFO	Listening on 127.0.0.1:49646
+1668405478880	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49647" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/3k/9ybm1r152vd8xlbk1kr5v6tw0000gn/T/rust_mozprofilesiJI92"
+1668405480373	Marionette	INFO	Marionette enabled
+1668405480412	Marionette	INFO	Listening on port 49652
+Read port: 49652
+WebDriver BiDi listening on ws://127.0.0.1:49647
+1668405481080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/3k/9ybm1r152vd8xlbk1kr5v6tw0000gn/T/rust_mozprofilesiJI92/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49647/devtools/browser/1cc94575-e810-4f5e-816e-33ee6e8228ca
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+1668405621513	geckodriver	INFO	Listening on 127.0.0.1:49789
+1668405622069	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49790" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/3k/9ybm1r152vd8xlbk1kr5v6tw0000gn/T/rust_mozprofileqFYke5"
+1668405623814	Marionette	INFO	Marionette enabled
+1668405623896	Marionette	INFO	Listening on port 49796
+Read port: 49796
+WebDriver BiDi listening on ws://127.0.0.1:49790
+1668405624533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/3k/9ybm1r152vd8xlbk1kr5v6tw0000gn/T/rust_mozprofileqFYke5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49790/devtools/browser/9361670e-1557-4ad9-ad44-814edc886853
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1668405629527	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www2.asx.com.au."
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+JavaScript error: https://content.markitcdn.com/asx.markitdigital.com/js/vendor.js, line 7: Error: Request failed with status code 401
+1668405706133	Marionette	INFO	Stopped listening on port 49796
