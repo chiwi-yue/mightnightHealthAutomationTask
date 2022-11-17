@@ -44,6 +44,7 @@ CLI output log example as below
 (venv) stanma@Stans-MacBook-Pro demo % python3 retrieveASX.py 
 Companyname: BHP GROUP LIMITED
 ############################################
+
 Stage 1: Retrieve the 3th company stock info
 The current page url is https://www2.asx.com.au/
 Title is :Home
@@ -55,6 +56,7 @@ Stock1 PE ratio: 6.55
 The related company array is :['BHP', 'S32', 'PLS', 'MIN']
 
 ############################################
+
 Stage 2: Retrieve the 2nd company stock info
 The page url: https://www2.asx.com.au/markets/company/S32
 Title: S32 share price and company information for ASX:S32
@@ -63,6 +65,7 @@ Stock2 Last Price: $3.950
 Stock2 PE ratio: 4.47
 
 ############################################
+
 Stage 3: Retrieve the 3th company stock info
 The page url: https://www2.asx.com.au/markets/company/PLS
 Title: PLS share price and company information for ASX:PLS
@@ -71,6 +74,7 @@ Stock3 Last Price: $5.475
 Stock3 PE ratio: 28.41
 
 ############################################
+
 Stage 4: Retrieve the 4th company stock info
 The page url: https://www2.asx.com.au/markets/company/MIN
 Title: MIN share price and company information for ASX:MIN
