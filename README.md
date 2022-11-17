@@ -42,7 +42,9 @@ CLI output log example as below
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 (venv) stanma@Stans-MacBook-Pro demo % python3 retrieveASX.py 
+
 Companyname: BHP GROUP LIMITED
+
 ############################################
 
 Stage 1: Retrieve the 3th company stock info
