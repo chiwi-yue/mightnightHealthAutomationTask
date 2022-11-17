@@ -1,4 +1,4 @@
-This is the Automation testing skill eveluation I completed for MidnightHealth(Brissbane)
+This is the Automation testing skill eveluation I completed for MidnightHealth(Brisbane, QLD)
 
 # mightnightHealthAutomationTask
 
